@@ -26,6 +26,6 @@
 
 
 * Dataset :
-	+[Image_Classification](  https://www.kaggle.com/toponowicz/spoken-language-identification).
-	+[Audio_Classification](https://www.kaggle.com/kwentar/blur-dataset).
-	+[Image_Retrieval](http://skydrive.live.com/?cid=1e04f731c1dd71bc&id=1E04F731C1DD71BC!105).
+	[Image_Classification](  https://www.kaggle.com/toponowicz/spoken-language-identification).
+	[Audio_Classification](https://www.kaggle.com/kwentar/blur-dataset).
+	[Image_Retrieval](http://skydrive.live.com/?cid=1e04f731c1dd71bc&id=1E04F731C1DD71BC!105).
