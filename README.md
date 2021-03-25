@@ -1,4 +1,4 @@
-# Istruzioni
+#Istruzioni
 
 ## Autori
 * Gabriele Carrara: 814720;
@@ -9,8 +9,8 @@
 * Image_Classification: 
 	+ Cartella Notebook con file Score_blur.ipynb in cui viene effettuato lo score di nuove immagini, 
 	Image_classification.ipynb con codice principale (parte di ML e Feature Engineering), Image_Classification_CNN.ipynb in cui si affronta il 
-	problema con Convolutional Neural Network ed infine image_blurring.ipynb dove viene effettato 'Data Enrichment' del dataset e si prova nuovamente
-	un'architettura convoluzionale;
+	problema con Convolutional Neural Network ed infine image_blurring.ipynb dove viene effettuato 'Data Enrichment' del dataset e 
+	Image_Classification_CNN_enrich.ipynb in cui si prova nuovamente un'architettura convoluzionale sul nuovo dataset;
 	+ Demo con il modello migliore;
 	+ map_classes.pkl, dizionario per contestualizzare le label della previsione;
 	+ final_model_image_classification.zip, in cui è presente il modello che ottiene le performance migliori.
@@ -26,6 +26,7 @@
 
 
 * Dataset :
-	[Image_Classification](  https://www.kaggle.com/toponowicz/spoken-language-identification).
-	[Audio_Classification](https://www.kaggle.com/kwentar/blur-dataset).
-	[Image_Retrieval](http://skydrive.live.com/?cid=1e04f731c1dd71bc&id=1E04F731C1DD71BC!105).
+	[Image_Classification](  https://www.kaggle.com/toponowicz/spoken-language-identification)
+	[Audio_Classification](https://www.kaggle.com/kwentar/blur-dataset)
+	[Image_Retrieval](http://skydrive.live.com/?cid=1e04f731c1dd71bc&id=1E04F731C1DD71BC!105)
+	[Dati per enrichment](https://www.kaggle.com/ifigotin/imagenetmini-1000)
